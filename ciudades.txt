@@ -3,4 +3,5 @@ Bogota
 Cali
 Bucaramanga
 Pereira
+Cucuta
 Palmira
